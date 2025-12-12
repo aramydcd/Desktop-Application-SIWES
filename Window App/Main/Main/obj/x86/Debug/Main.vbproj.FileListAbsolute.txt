@@ -1,0 +1,12 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Main\bin\Debug\Main.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Main\bin\Debug\Main.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Main\bin\Debug\Main.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Main\obj\x86\Debug\Main.Form1.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Main\obj\x86\Debug\Main.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Main\obj\x86\Debug\Main.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Main\obj\x86\Debug\Main.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Main\obj\x86\Debug\Main.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Main\obj\x86\Debug\Main.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\Main\Main\obj\x86\Debug\Main.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\Main\Main\obj\x86\Debug\Main.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\Main\Main\obj\x86\Debug\Main.pdb

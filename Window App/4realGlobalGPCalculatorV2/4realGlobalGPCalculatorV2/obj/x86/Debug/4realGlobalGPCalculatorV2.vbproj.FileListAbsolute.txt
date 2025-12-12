@@ -1,0 +1,12 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\4realGlobalGPCalculatorV2\obj\x86\Debug\_4realGlobalGPCalculatorV2.Form1.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\4realGlobalGPCalculatorV2\obj\x86\Debug\_4realGlobalGPCalculatorV2.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\4realGlobalGPCalculatorV2\obj\x86\Debug\4realGlobalGPCalculatorV2.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\4realGlobalGPCalculatorV2\bin\Debug\4realGlobalGPCalculatorV2.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\4realGlobalGPCalculatorV2\bin\Debug\4realGlobalGPCalculatorV2.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\4realGlobalGPCalculatorV2\bin\Debug\4realGlobalGPCalculatorV2.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\4realGlobalGPCalculatorV2\obj\x86\Debug\4realGlobalGPCalculatorV2.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\4realGlobalGPCalculatorV2\obj\x86\Debug\4realGlobalGPCalculatorV2.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\4realGlobalGPCalculatorV2\obj\x86\Debug\4realGlobalGPCalculatorV2.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\4realGlobalGPCalculatorV2\4realGlobalGPCalculatorV2\obj\x86\Debug\4realGlobalGPCalculatorV2.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\4realGlobalGPCalculatorV2\4realGlobalGPCalculatorV2\obj\x86\Debug\4realGlobalGPCalculatorV2.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\4realGlobalGPCalculatorV2\4realGlobalGPCalculatorV2\obj\x86\Debug\4realGlobalGPCalculatorV2.pdb

@@ -1,0 +1,9 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Timing\bin\Debug\Timing.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Timing\bin\Debug\Timing.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Timing\bin\Debug\Timing.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Timing\obj\x86\Debug\Timing.Form1.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Timing\obj\x86\Debug\Timing.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Timing\obj\x86\Debug\Timing.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Timing\obj\x86\Debug\Timing.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Timing\obj\x86\Debug\Timing.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Timing\obj\x86\Debug\Timing.pdb

@@ -1,0 +1,24 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleCalculator\bin\Debug\SimpleCalculator.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.vbproj.GenerateResource.Cache

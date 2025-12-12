@@ -1,0 +1,9 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\MultiForm\bin\Debug\MultiForm.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\MultiForm\bin\Debug\MultiForm.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\MultiForm\bin\Debug\MultiForm.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\MultiForm\obj\x86\Debug\MultiForm.Main.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\MultiForm\obj\x86\Debug\MultiForm.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\MultiForm\obj\x86\Debug\MultiForm.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\MultiForm\obj\x86\Debug\MultiForm.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\MultiForm\obj\x86\Debug\MultiForm.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\MultiForm\obj\x86\Debug\MultiForm.pdb

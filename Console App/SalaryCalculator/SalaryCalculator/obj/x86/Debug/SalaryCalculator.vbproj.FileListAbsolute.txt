@@ -1,0 +1,16 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalaryCalculator\bin\Debug\SalaryCalculator.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalaryCalculator\obj\x86\Debug\SalaryCalculator.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalaryCalculator\obj\x86\Debug\SalaryCalculator.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalaryCalculator\obj\x86\Debug\SalaryCalculator.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalaryCalculator\obj\x86\Debug\SalaryCalculator.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalaryCalculator\obj\x86\Debug\SalaryCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SalaryCalculator\SalaryCalculator\obj\x86\Debug\SalaryCalculator.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SalaryCalculator\SalaryCalculator\obj\x86\Debug\SalaryCalculator.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SalaryCalculator\SalaryCalculator\obj\x86\Debug\SalaryCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SalaryCalculator\SalaryCalculator\obj\x86\Debug\SalaryCalculator.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\SalaryCalculator\SalaryCalculator\obj\x86\Debug\SalaryCalculator.vbproj.GenerateResource.Cache

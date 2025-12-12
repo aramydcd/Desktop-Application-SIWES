@@ -1,0 +1,18 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Calculator.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Calculator.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

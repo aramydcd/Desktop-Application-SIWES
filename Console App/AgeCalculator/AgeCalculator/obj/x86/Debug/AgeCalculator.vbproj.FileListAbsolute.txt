@@ -1,0 +1,16 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AgeCalculator\bin\Debug\AgeCalculator.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AgeCalculator\bin\Debug\AgeCalculator.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AgeCalculator\bin\Debug\AgeCalculator.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AgeCalculator\obj\x86\Debug\AgeCalculator.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AgeCalculator\obj\x86\Debug\AgeCalculator.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AgeCalculator\obj\x86\Debug\AgeCalculator.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AgeCalculator\obj\x86\Debug\AgeCalculator.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\AgeCalculator\obj\x86\Debug\AgeCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\AgeCalculator\AgeCalculator\obj\x86\Debug\AgeCalculator.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\AgeCalculator\AgeCalculator\obj\x86\Debug\AgeCalculator.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\AgeCalculator\AgeCalculator\obj\x86\Debug\AgeCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\AgeCalculator\AgeCalculator\obj\x86\Debug\AgeCalculator.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\AgeCalculator\AgeCalculator\obj\x86\Debug\AgeCalculator.vbproj.GenerateResource.Cache

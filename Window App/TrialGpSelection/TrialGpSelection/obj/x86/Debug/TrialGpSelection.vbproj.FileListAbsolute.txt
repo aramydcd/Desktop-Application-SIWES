@@ -1,0 +1,12 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\TrialGpSelection\bin\Debug\TrialGpSelection.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\TrialGpSelection\bin\Debug\TrialGpSelection.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\TrialGpSelection\bin\Debug\TrialGpSelection.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\TrialGpSelection\obj\x86\Debug\TrialGpSelection.Form1.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\TrialGpSelection\obj\x86\Debug\TrialGpSelection.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\TrialGpSelection\obj\x86\Debug\TrialGpSelection.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\TrialGpSelection\obj\x86\Debug\TrialGpSelection.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\TrialGpSelection\obj\x86\Debug\TrialGpSelection.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\TrialGpSelection\obj\x86\Debug\TrialGpSelection.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\TrialGpSelection\TrialGpSelection\obj\x86\Debug\TrialGpSelection.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\TrialGpSelection\TrialGpSelection\obj\x86\Debug\TrialGpSelection.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\TrialGpSelection\TrialGpSelection\obj\x86\Debug\TrialGpSelection.pdb

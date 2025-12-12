@@ -1,0 +1,21 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\NACOS_GPA_CALCULATOR\bin\Debug\NACOS_GPA_CALCULATOR.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\NACOS_GPA_CALCULATOR\bin\Debug\NACOS_GPA_CALCULATOR.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\NACOS_GPA_CALCULATOR\bin\Debug\NACOS_GPA_CALCULATOR.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.Form1.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\NACOS_GPA_CALCULATOR\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\NACOS_GPA_CALCULATOR\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\NACOS_GPA_CALCULATOR\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\NACOS_GPA_CALCULATOR\NACOS_GPA_CALCULATOR\bin\Debug\NACOS_GPA_CALCULATOR.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\NACOS_GPA_CALCULATOR\NACOS_GPA_CALCULATOR\bin\Debug\NACOS_GPA_CALCULATOR.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\NACOS_GPA_CALCULATOR\NACOS_GPA_CALCULATOR\bin\Debug\NACOS_GPA_CALCULATOR.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\NACOS_GPA_CALCULATOR\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\NACOS_GPA_CALCULATOR\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\NACOS_GPA_CALCULATOR\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.FGForm.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\NACOS_GPA_CALCULATOR\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.LoginForm.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\NACOS_GPA_CALCULATOR\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.CreateAccountForm.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\NACOS_GPA_CALCULATOR\NACOS_GPA_CALCULATOR\obj\x86\Debug\NACOS_GPA_CALCULATOR.FormPrototype.resources

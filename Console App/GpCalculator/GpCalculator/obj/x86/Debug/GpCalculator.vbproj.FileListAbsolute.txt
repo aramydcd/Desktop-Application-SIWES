@@ -1,0 +1,16 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\GpCalculator\bin\Debug\GpCalculator.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\GpCalculator\bin\Debug\GpCalculator.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\GpCalculator\bin\Debug\GpCalculator.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\GpCalculator\obj\x86\Debug\GpCalculator.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\GpCalculator\obj\x86\Debug\GpCalculator.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\GpCalculator\obj\x86\Debug\GpCalculator.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\GpCalculator\obj\x86\Debug\GpCalculator.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\GpCalculator\obj\x86\Debug\GpCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\GpCalculator\GpCalculator\obj\x86\Debug\GpCalculator.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\GpCalculator\GpCalculator\obj\x86\Debug\GpCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\GpCalculator\GpCalculator\bin\Debug\GpCalculator.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\GpCalculator\GpCalculator\bin\Debug\GpCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\GpCalculator\GpCalculator\bin\Debug\GpCalculator.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\GpCalculator\GpCalculator\obj\x86\Debug\GpCalculator.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\GpCalculator\GpCalculator\obj\x86\Debug\GpCalculator.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\GpCalculator\GpCalculator\obj\x86\Debug\GpCalculator.exe

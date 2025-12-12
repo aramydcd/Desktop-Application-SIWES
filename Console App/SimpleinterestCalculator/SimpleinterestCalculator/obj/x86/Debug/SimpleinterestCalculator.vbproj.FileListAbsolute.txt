@@ -1,0 +1,8 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleinterestCalculator\bin\Debug\SimpleinterestCalculator.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleinterestCalculator\bin\Debug\SimpleinterestCalculator.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleinterestCalculator\bin\Debug\SimpleinterestCalculator.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleinterestCalculator\obj\x86\Debug\SimpleinterestCalculator.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleinterestCalculator\obj\x86\Debug\SimpleinterestCalculator.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleinterestCalculator\obj\x86\Debug\SimpleinterestCalculator.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleinterestCalculator\obj\x86\Debug\SimpleinterestCalculator.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SimpleinterestCalculator\obj\x86\Debug\SimpleinterestCalculator.pdb

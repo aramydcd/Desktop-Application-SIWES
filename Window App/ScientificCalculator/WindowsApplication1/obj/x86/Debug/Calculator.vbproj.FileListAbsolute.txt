@@ -1,0 +1,6 @@
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\ScientificCalculator\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\ScientificCalculator\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\ScientificCalculator\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

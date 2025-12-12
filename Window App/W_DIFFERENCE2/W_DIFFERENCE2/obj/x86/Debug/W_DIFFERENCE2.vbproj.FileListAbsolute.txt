@@ -1,0 +1,18 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_DIFFERENCE2\bin\Debug\W_DIFFERENCE2.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_DIFFERENCE2\bin\Debug\W_DIFFERENCE2.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_DIFFERENCE2\bin\Debug\W_DIFFERENCE2.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_DIFFERENCE2\obj\x86\Debug\W_DIFFERENCE2.Difference2.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_DIFFERENCE2\obj\x86\Debug\W_DIFFERENCE2.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_DIFFERENCE2\obj\x86\Debug\W_DIFFERENCE2.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_DIFFERENCE2\obj\x86\Debug\W_DIFFERENCE2.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_DIFFERENCE2\obj\x86\Debug\W_DIFFERENCE2.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_DIFFERENCE2\obj\x86\Debug\W_DIFFERENCE2.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_DIFFERENCE2\W_DIFFERENCE2\obj\x86\Debug\W_DIFFERENCE2.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_DIFFERENCE2\W_DIFFERENCE2\obj\x86\Debug\W_DIFFERENCE2.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_DIFFERENCE2\W_DIFFERENCE2\obj\x86\Debug\W_DIFFERENCE2.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_DIFFERENCE2\W_DIFFERENCE2\bin\Debug\W_DIFFERENCE2.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_DIFFERENCE2\W_DIFFERENCE2\bin\Debug\W_DIFFERENCE2.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_DIFFERENCE2\W_DIFFERENCE2\bin\Debug\W_DIFFERENCE2.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_DIFFERENCE2\W_DIFFERENCE2\obj\x86\Debug\W_DIFFERENCE2.Difference2.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_DIFFERENCE2\W_DIFFERENCE2\obj\x86\Debug\W_DIFFERENCE2.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_DIFFERENCE2\W_DIFFERENCE2\obj\x86\Debug\W_DIFFERENCE2.vbproj.GenerateResource.Cache

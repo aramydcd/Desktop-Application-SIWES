@@ -1,0 +1,12 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\FRACTION2\bin\Debug\FRACTION2.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\FRACTION2\bin\Debug\FRACTION2.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\FRACTION2\bin\Debug\FRACTION2.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\FRACTION2\obj\x86\Debug\FRACTION2.Fraction2.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\FRACTION2\obj\x86\Debug\FRACTION2.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\FRACTION2\obj\x86\Debug\FRACTION2.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\FRACTION2\obj\x86\Debug\FRACTION2.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\FRACTION2\obj\x86\Debug\FRACTION2.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\FRACTION2\obj\x86\Debug\FRACTION2.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\FRACTION2\FRACTION2\obj\x86\Debug\FRACTION2.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\FRACTION2\FRACTION2\obj\x86\Debug\FRACTION2.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\FRACTION2\FRACTION2\obj\x86\Debug\FRACTION2.pdb

@@ -1,0 +1,18 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_ArithmeticOperationOf2\bin\Debug\W_ArithmeticOperationOf2.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_ArithmeticOperationOf2\bin\Debug\W_ArithmeticOperationOf2.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_ArithmeticOperationOf2\bin\Debug\W_ArithmeticOperationOf2.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_ArithmeticOperationOf2\obj\x86\Debug\W_ArithmeticOperationOf2.Form1.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_ArithmeticOperationOf2\obj\x86\Debug\W_ArithmeticOperationOf2.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_ArithmeticOperationOf2\obj\x86\Debug\W_ArithmeticOperationOf2.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_ArithmeticOperationOf2\obj\x86\Debug\W_ArithmeticOperationOf2.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_ArithmeticOperationOf2\obj\x86\Debug\W_ArithmeticOperationOf2.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\W_ArithmeticOperationOf2\obj\x86\Debug\W_ArithmeticOperationOf2.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_ArithmeticOperationOf2\W_ArithmeticOperationOf2\obj\x86\Debug\W_ArithmeticOperationOf2.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_ArithmeticOperationOf2\W_ArithmeticOperationOf2\obj\x86\Debug\W_ArithmeticOperationOf2.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_ArithmeticOperationOf2\W_ArithmeticOperationOf2\obj\x86\Debug\W_ArithmeticOperationOf2.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_ArithmeticOperationOf2\W_ArithmeticOperationOf2\bin\Debug\W_ArithmeticOperationOf2.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_ArithmeticOperationOf2\W_ArithmeticOperationOf2\bin\Debug\W_ArithmeticOperationOf2.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_ArithmeticOperationOf2\W_ArithmeticOperationOf2\bin\Debug\W_ArithmeticOperationOf2.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_ArithmeticOperationOf2\W_ArithmeticOperationOf2\obj\x86\Debug\W_ArithmeticOperationOf2.W_ArithmeticOperationOf2.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_ArithmeticOperationOf2\W_ArithmeticOperationOf2\obj\x86\Debug\W_ArithmeticOperationOf2.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\W_ArithmeticOperationOf2\W_ArithmeticOperationOf2\obj\x86\Debug\W_ArithmeticOperationOf2.vbproj.GenerateResource.Cache

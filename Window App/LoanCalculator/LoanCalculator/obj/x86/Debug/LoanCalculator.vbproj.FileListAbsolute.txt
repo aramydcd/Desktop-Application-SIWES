@@ -1,0 +1,18 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\LoanCalculator\bin\Debug\LoanCalculator.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\LoanCalculator\bin\Debug\LoanCalculator.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\LoanCalculator\bin\Debug\LoanCalculator.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\LoanCalculator\obj\x86\Debug\LoanCalculator.Form1.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\LoanCalculator\obj\x86\Debug\LoanCalculator.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\LoanCalculator\obj\x86\Debug\LoanCalculator.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\LoanCalculator\obj\x86\Debug\LoanCalculator.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\LoanCalculator\obj\x86\Debug\LoanCalculator.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\LoanCalculator\obj\x86\Debug\LoanCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\LoanCalculator\LoanCalculator\obj\x86\Debug\LoanCalculator.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\LoanCalculator\LoanCalculator\obj\x86\Debug\LoanCalculator.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\LoanCalculator\LoanCalculator\obj\x86\Debug\LoanCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\LoanCalculator\LoanCalculator\obj\x86\Debug\LoanCalculator.Form1.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\LoanCalculator\LoanCalculator\obj\x86\Debug\LoanCalculator.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Window App\LoanCalculator\LoanCalculator\obj\x86\Debug\LoanCalculator.vbproj.GenerateResource.Cache

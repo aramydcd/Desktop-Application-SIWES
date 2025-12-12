@@ -1,0 +1,16 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Leisure\bin\Debug\Leisure.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Leisure\bin\Debug\Leisure.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Leisure\bin\Debug\Leisure.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Leisure\obj\x86\Debug\Leisure.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Leisure\obj\x86\Debug\Leisure.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Leisure\obj\x86\Debug\Leisure.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Leisure\obj\x86\Debug\Leisure.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\Leisure\obj\x86\Debug\Leisure.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\Leisure\Leisure\obj\x86\Debug\Leisure.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\Leisure\Leisure\obj\x86\Debug\Leisure.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\Leisure\Leisure\obj\x86\Debug\Leisure.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\Leisure\Leisure\bin\Debug\Leisure.exe
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\Leisure\Leisure\bin\Debug\Leisure.pdb
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\Leisure\Leisure\bin\Debug\Leisure.xml
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\Leisure\Leisure\obj\x86\Debug\Leisure.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Visual Studio 2010\Projects\Console App\Leisure\Leisure\obj\x86\Debug\Leisure.vbproj.GenerateResource.Cache
