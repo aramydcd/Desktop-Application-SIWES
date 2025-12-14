@@ -20,7 +20,7 @@ This hands-on experience helped me gain practical knowledge in solving real-worl
 - Confidence working with forms, controls, events, and UI elements
 
 - Experience connecting applications to a database
-- 
+ 
 
 ## Projects Included
 - Console applications
