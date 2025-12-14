@@ -35,5 +35,3 @@ Training projects completed during SIWES industrial experience.
 
 ## Author
 Abdulazeez Abdulakeem
-
-Improved problem-solving and debugging abilities
